@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "fieldbit: exact symbolic layer for sheaf-theoretic contextuality (sites, sieves, boundary, composition laws)"
+authors:
+  - family-names: "Ozcáriz Arraiza"
+    given-names: "Ignacio María"
+    orcid: "https://orcid.org/0000-0002-9511-016X"
+version: 0.1.0
+date-released: 2026-09-10
+license: MIT
+repository-code: "https://github.com/Anaciber/fieldbit"
